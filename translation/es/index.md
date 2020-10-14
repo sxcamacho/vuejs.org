@@ -1,4 +1,2 @@
+index: true
 ---
-type: menu
----
-
